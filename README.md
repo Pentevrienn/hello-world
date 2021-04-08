@@ -7,4 +7,4 @@ I am so excited each day to write an app, or learn something new, so I decided t
 of months or years, but hey - aren't we all sometimes, before we learn some more? ;)
 
 
-PS. There is another account called 'Pentevrien' here - without the doubled 'N' at the end - and it was my account - unfortunately I lost the email it was assiociated with, the domain does not exist anymore, so if you'll stumble upon that one - rest assured it's not identity theft or anything so sinister. 
+PS. There is another account called 'Pentevrien' here - without the doubled 'N' at the end - and it was my account - unfortunately I lost the email it was assiociated with (the domain does not exist anymore), so if you'll stumble upon that one - rest assured it's not identity theft or anything so sinister. 
