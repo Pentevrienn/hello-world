@@ -1,2 +1,2 @@
 # hello-world
-My notes to self, or not only to others... who knows :)
+My notes to self, or to others as well... who knows :)
