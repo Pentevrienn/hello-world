@@ -1,5 +1,4 @@
 # hello-world
-These are my notes to self, to others as well... who knows :)
 
 I am Pentevrien, or more human-like - Aga :)
 Since the VBA, which I use in my automations of processes at work, became somewhat narrow for me, I decided to learn Python.
